@@ -1,0 +1,11 @@
+
+target/classes/cn/sf/minio/config/MinioConfig.class
+target/classes/cn/sf/minio/config/MinioProperties.class
+target/classes/META-INF/spring-configuration-metadata.json
+target/classes/META-INF/spring.factories
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/minio-spring-boot-starter-1.1.jar
